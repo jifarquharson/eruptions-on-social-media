@@ -56,6 +56,9 @@ Generating figures for publication
 ## Data Availability  
 The repository includes **partially processed CSV datasets**. Original raw data in JSON format (downloaded via the Twitter API) are excluded due to storage limits, but can be provided on request.
 
+## Disclaimer
+This research makes use of publicly available data from the Twitter (𝕏) platform for the purpose of studying patterns of public engagement with volcanic eruptions. Only publicly shared tweets were accessed using the official API, and no attempts were made to identify or contact individual users unless their posts were exceptionally widely shared and formed part of aggregate trends. <!-- Any quoted content is anonymised where appropriate, and identifying information has been removed or redacted unless explicit permission was granted by the original poster. This project adheres to ethical standards for research involving social media data, as outlined by our institutional review board and relevant international guidelines.-->
+
 
 ## Citation  
 If you use this code or data in your own work, please cite:  
