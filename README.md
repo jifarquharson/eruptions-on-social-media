@@ -62,7 +62,7 @@ This research makes use of publicly available data from the Twitter (𝕏) platf
 
 ## Citation  
 If you use this code or data in your own work, please cite:  
->Farquharson, J. I. *Eruptions in the Attention Economy: Tracking volcanic eruptions and public engagement through multilingual social media analysis*. (Under Review) [2025]
+>Farquharson, J. I. *Eruptions in the Attention Economy: Tracking volcanic eruptions and public engagement through multilingual social media analysis*. Communications earth & environment (Under Review) [2025]
 
 BibTeX and full citation info will be added upon publication.
 
