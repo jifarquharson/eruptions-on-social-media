@@ -15,7 +15,7 @@ The script was used for data collection between 25 August 2019 and 12 June 2023.
 To run:
     1. Register a Twitter API application (if access is restored).
     2. Obtain and enter authentication credentials below.
-    3. Execute the script: `python [filename].py`
+    3. Execute the script: `python crawler.py`
 """
 
 # Twitter API Credentials (Replace with actual credentials)
